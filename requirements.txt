@@ -1,0 +1,4 @@
+Flask
+docxtpl
+docx2pdf
+python-docx
