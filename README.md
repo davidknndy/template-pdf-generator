@@ -101,9 +101,9 @@ You can deploy the app using:
 
 ## 📃 Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](https://i.postimg.cc/sXPwggz0/scr1.png)
+![alt text](https://i.postimg.cc/jdSZRTFZ/scr2.png)
+![alt text](https://i.postimg.cc/qBL1fqjN/scr3.png)
 
 ---
 
